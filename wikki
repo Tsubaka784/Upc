@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr"></html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>W40K.FR</title>
+    <link href="/web/css/css.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+      <nav div class="bannere"></div>
+        <ul class="menu">
+          <li><a href="/index.html">Accueil</a></li>
+          <li><a href="/web/page/Wikki.html">Wikki</a></li>
+          <li><a href="/web/page/leadd.html">Leader Glorieux</a></li>
+          <li><a href="/web/page/log.html">Connexion</a></li>
+        </ul>
+      </nav>
+    </header>
+
+      <main> 
+        <h2>Voici les étapes d'une partie de poker Texas Hold'em :</h2>
+        <p>Les blinds : Deux joueurs doivent placer des mises obligatoires appelées "blinds" avant que la partie ne commence.<br> 
+           Le joueur assis immédiatement à gauche du dealer place la small blind et le joueur suivant place la big blind.<br>
+           <br>
+           Les cartes : Chaque joueur reçoit deux cartes fermées appelées "hole cards".<br>
+           <br>
+           Les enchères pré-flop : Les enchères commencent avec le joueur à gauche du big blind et se poursuivent dans le sens des aiguilles d'une montre.<br> 
+           Les joueurs peuvent soit suivre la mise (appeler), soit la relancer, soit se coucher (jeter leurs cartes).<br>
+           <br>
+           Le flop : Trois cartes communes sont placées face visible sur la table. Ces cartes sont appelées "le flop".<br>
+           <br>
+           Les enchères post-flop : Les enchères recommencent avec le joueur à gauche du dealer et se poursuivent dans le sens des aiguilles d'une montre.<br> 
+           Les joueurs peuvent à nouveau suivre, relancer ou se coucher.<br>
+           <br>
+           Le turn : Une quatrième carte commune est placée face visible sur la table. Cette carte est appelée "le turn".<br>
+           <br>   
+           Les enchères post-turn : Les enchères recommencent avec le joueur à gauche du dealer et se poursuivent dans le sens des aiguilles d'une montre.<br> 
+           Les joueurs peuvent à nouveau suivre, relancer ou se coucher.<br>
+           <br>
+           La river : Une cinquième et dernière carte commune est placée face visible sur la table. Cette carte est appelée "la river".<br>
+           <br>
+           Les enchères post-river : Les enchères recommencent avec le joueur à gauche du dealer et se poursuivent dans le sens des aiguilles d'une montre.<br>
+           Les joueurs peuvent à nouveau suivre, relancer ou se coucher.<br>
+           <br>
+           L'abattage : Si plusieurs joueurs sont encore en lice à la fin de la dernière ronde d'enchères, ils doivent montrer leurs cartes.<br>
+           Le joueur ayant la meilleure combinaison de cinq cartes remporte le pot.<br>
+   </p>
+
+        <footer>
+            <p>Copy-ntm 2023 - Tous droits osef.</p>
+          </footer>
+        </body>
+      </html>
