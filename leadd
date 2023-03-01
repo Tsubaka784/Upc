@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr"></html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>W40K.FR</title>
+    <link href="/web/css/css.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+      <nav div class="bannere"></div>
+        <ul class="menu">
+          <li><a href="/index.html">Accueil</a></li>
+          <li><a href="/web/page/Wikki.html">Wikki</a></li>
+          <li><a href="/web/page/leadd.html">Leader Glorieux</a></li>
+          <li><a href="/web/page/log.html">Connexion</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <h1>Tableau de classement des joueurs</h1>
+    <table div="lead">
+      <tr>
+        <th>Place</th>
+        <th>Nom</th>
+        <th>Score</th>
+      </tr>
+      <tr class="first">
+        <td>1</td>
+        <td>John</td>
+        <td>2000</td>
+      </tr>
+      <tr class="first">
+        <td>2</td>
+        <td>Jane</td>
+        <td>1750</td>
+      </tr>
+      <tr class="first">
+        <td>3</td>
+        <td>Bob</td>
+        <td>1500</td>
+      </tr>
+      <tr class="other">
+        <td>4</td>
+        <td>Emma</td>
+        <td>1250</td>
+      </tr>
+      <tr class="other">
+        <td>5</td>
+        <td>James</td>
+        <td>1000</td>
+      </tr>
+      <tr class="other">
+        <td>6</td>
+        <td>Alice</td>
+        <td>750</td>
+      </tr>
+      <tr class="other">
+        <td>7</td>
+        <td>Michael</td>
+        <td>500</td>
+      </tr>
+      <tr class="other">
+        <td>8</td>
+        <td>Sara</td>
+        <td>250</td>
+      </tr>
+    </table>
+
+    <style>
+      /* Style pour le tableau */
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        color: black;
+      }
+
+      th {
+        background-color: #4CAF50;
+        color: white;
+      }
+
+      /* Style pour les premières places */
+      .first {
+        background-color: gold;
+        font-weight: bold;
+      }
+
+      /* Style pour les autres places */
+      .other {
+        background-color: silver;
+        font-weight: bold;
+      }
+    </style>
+
+<footer>
+  <p>Panthéon :<br>
+  - 00/00/00 : Joueur (10 premer)
+  </p>
+</footer>
+
+  </body>
+</html>
