@@ -13,9 +13,9 @@
   <body>
 
     <header>
-      <nav div class="banniere"></div>
+      <nav div class="bannere"></div>
         <ul class="menu">
-          <li><a href="index.html">Accueil</a></li>
+          <li><a href="/index.html">Accueil</a></li>
           <li><a href="/web/page/Wikki.html">Wikki</a></li>
           <li><a href="/web/page/leadd.html">Leader Glorieux</a></li>
           <li><a href="/web/page/log.html">Connexion</a></li>
@@ -25,8 +25,14 @@
     
     <main> 
       <h1>Underground Poker Championship </h1>     
-      <h2>titre :</h2>
-        <p>bla bla<br> 
+        <p>Le poker est un jeu de cartes populaire dans lequel les joueurs parient sur la force de leur main de cartes.<br>
+           Il existe de nombreuses variantes de ce jeu, mais la version la plus couramment jouée est le Texas Hold'em.<br>
+          Le jeu commence avec chaque joueur recevant deux cartes fermées (connues sous le nom de cartes de poche) et cinq cartes communes sont placées au centre de la table, face visible pour tous les joueurs.<br>
+           Les joueurs doivent alors utiliser leurs deux cartes de poche en combinaison avec les cartes communes pour former la meilleure main de cinq cartes possible.<br>
+          Les joueurs peuvent soit parier (miser) soit passer (se coucher) pendant chaque tour de mise. Les paris peuvent être augmentés en fonction de la force de la main de chaque joueur, et le but du jeu est de gagner le pot (l'ensemble des paris faits pendant une ronde de jeu) en ayant la meilleure main de cartes à la fin de la partie.<br>          
+          Le jeu continue jusqu'à ce que tous les joueurs aient soit abandonné (se couché) ou qu'il n'y ait plus de paris à faire, et le gagnant est déterminé par la force de sa main.<br>
+          Les mains de cartes possibles dans le poker, de la plus forte à la plus faible, sont la quinte flush royale, la quinte flush, le carré, le full, la couleur, la quinte, le brelan, deux paires, une paire et une carte haute.<br>
+          Le poker est un jeu de stratégie et de chance qui peut être joué à la fois en ligne et en personne. Il est apprécié par les joueurs de tous niveaux et peut être joué pour des sommes d'argent ou simplement pour le plaisir. 
         </p>
         <h3>A vous d entrer dans l histoire des légendes ...</h3> 
       </p>
